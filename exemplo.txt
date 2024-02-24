@@ -1,3 +1,5 @@
 olá mundo!
 2 olá mundo!
 3 olá mundo!
+
+clone: adicionando 4 olá mundo!
